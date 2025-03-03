@@ -19,6 +19,9 @@ Gauging your audience’s existing knowledge by:
 Ask Direct Questions; Observe Their Questions or Comments; Analyze Context or Background; Start Broad and Watch Reactions; Use a Knowledge Probe; Leverage Pre-Interaction Data; Test with a Sample Group; and Putting It Together to Avoid Jargon Overload.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+Techniques to Ensure Accessibility for Limited Technical Knowledge:
+Swap Jargon for Everyday Words; Lean on Relatable Comparisons; Lead with Why It Matters; Keep Sentences Short and Clear; Show, Don’t Just Tell; Skip the Tech Guts; Sound Like a Friend; and Check with a Novice.
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
