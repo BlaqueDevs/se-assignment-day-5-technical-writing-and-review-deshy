@@ -23,7 +23,15 @@ Techniques to Ensure Accessibility for Limited Technical Knowledge:
 Swap Jargon for Everyday Words; Lean on Relatable Comparisons; Lead with Why It Matters; Keep Sentences Short and Clear; Show, Don’t Just Tell; Skip the Tech Guts; Sound Like a Friend; and Check with a Novice.
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+Using plain language instead of technical jargon is crucial for clarity, accessibility, and engagement.
+ 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+How Simplification Improves Comprehension
+- Lowers Cognitive Effort: Simple words like "start" or "fix" are processed faster because they’re already in most people’s active vocabulary. Complex terms like "initiate" or "resolve" require extra mental translation, slowing down understanding—especially for non-experts or those multitasking.
+- Boosts Relatability: Familiar terms tie into daily experiences (e.g., "show me the way"), making the content feel less alien. Technical words can create a barrier, making readers or listeners feel out of their depth.
+- Reduces Ambiguity: Simplified terms are often more concrete. "Check" implies a quick, tangible action; "validate" could mean anything from confirming to certifying, adding unnecessary vagueness.
+- Widens Accessibility: Non-native speakers, younger audiences, or people with limited education benefit from basic vocabulary. "Start" crosses language and literacy barriers better than "initiate."
+  
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
